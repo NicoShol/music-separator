@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Input audio files
+input/
+
+# Separated output files
+separated/
+
+# macOS specific files
+.DS_Store
